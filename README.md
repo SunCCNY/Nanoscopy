@@ -1,2 +1,2 @@
 # Nanoscopy-Lab
-Nanoscopy Laboratory - Projects for single molecule localization microscopy
+Projects for single molecule localization microscopy at Nanoscopy Laboratory 
