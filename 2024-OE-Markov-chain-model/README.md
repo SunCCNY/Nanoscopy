@@ -1,1 +1,1 @@
-The MATLAB codes in this folder are developed and used in the manuscript "Markov chain models of emitter activations in single molecule localization microscopy" submitted to Optical Express. 
+The MATLAB codes, figures, and data movies are developed and used in the manuscript "Markov chain models of emitter activations in single molecule localization microscopy" submitted to Optical Express. 
