@@ -12,7 +12,7 @@
 % Electrical Engineering Department
 % The City College of City University of New York
 % E-mail: ysun@ccny.cuny.edu
-% 01/06, 04/29, 05/07, 08/15/2024
+% 01/06, 04/29, 05/07, 08/15/2024, 09/07/2024
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -253,7 +253,7 @@ Ma_(n12)   % [229    74    30    21]
 
 %%% Generate a video of data movie: 100 frames  
 fprintf(1,'Generate a video of data movie: 100 frames\n') ; 
-vidObj=VideoWriter('Cycled3D.avi') ; 
+vidObj=VideoWriter('Cycled3D.mp4','MPEG-4') ; 
 vidObj.FrameRate=5 ;      % frames/s in movie
 open(vidObj) ; 
 wx=3.4 ; wy=wx ; dx=0.1 ; dy=0.1 ; 
@@ -512,7 +512,7 @@ Ma_(n12)   % [32    34    39    39]
 
 %%% Generate a video of data movie: 100 frames  
 fprintf(1,'Generate a video of data movie: 100 frames \n') ; 
-vidObj=VideoWriter('Continuous2D.avi') ; 
+vidObj=VideoWriter('Continuous2D.mp4','MPEG-4') ; 
 vidObj.FrameRate=5 ;      % frames/s in movie
 open(vidObj) ; 
 wx=3.4 ; wy=wx ; dx=0.1 ; dy=0.1 ; 
