@@ -10,9 +10,22 @@ The MATLAB codes, figures, and data movies are developed, generated and used in 
 
 MATLAB R2021a
 
-d) Environment: Windows 10
-e) Major component description: Partition_V4.m is the main program and the others are called functions. 
-f) Detailed set-up instructions: Extract all files into one folder. 
-g) Detailed run instructions: Run Partition_V4.m to generate the figures and numerical results. 
-h) Output description: The program will generate the figures and numerical results. 
-i) Contact information: Author 
+### Environment
+
+Windows 10
+
+### Major component description
+
+Partition_V4.m is the main program and the others are called functions. 
+
+### Detailed set-up instructions
+
+Put all files into one folder. 
+
+### Detailed run instructions
+
+Run Partition_V4.m to generate the figures and numerical results. 
+
+### Output description
+
+The program will generate the figures and numerical results. 
