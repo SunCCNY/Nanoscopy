@@ -4,13 +4,15 @@ The MATLAB codes, figures, and data movies are developed, generated and used in 
 
 [1] Y. Sun, "[Partition of estimated locations: an approach to accurate quality metrics for stochastic optical localization nanoscopy](https://opg.optica.org/viewmedia.cfm?r=1&rwjcode=josaa&uri=josaa-39-12-2307&html=true)," JOSA A, vol. 39, no. 12, pp. 2307-2315, Dec. 2022.
 
-## Run codes
+## Instructions
 
-The main program is MarkovModel_V4.m. It has two sections: 
+### Platform 
 
-Section (A): Cycled illumination for 3D imaging
+MATLAB R2021a
 
-Section (B): Continuous illumination for 2D imaging
-
-Each of the sections can be run independently. 
-
+d) Environment: Windows 10
+e) Major component description: Partition_V4.m is the main program and the others are called functions. 
+f) Detailed set-up instructions: Extract all files into one folder. 
+g) Detailed run instructions: Run Partition_V4.m to generate the figures and numerical results. 
+h) Output description: The program will generate the figures and numerical results. 
+i) Contact information: Author 
