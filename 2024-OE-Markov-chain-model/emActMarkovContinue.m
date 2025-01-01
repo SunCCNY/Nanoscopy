@@ -1,9 +1,7 @@
 % [ca,p,h1]=emActMarkovContinue(t,t1,t0,Dt,N,M)
 %
-% Produce emitters' photoactivation states in a data movie based on 
-% two-phase Markov chain for cycled illumination. 
-% Each cycle consists two phase: A-phase consists of KA frames and 
-% D-phase consists of KD frames. 
+% Produce emitters' photoactivation states in a data movie for cycled 
+% illumination. 
 % 
 % Input:
 %   t       - mean of photoactivatable period 
