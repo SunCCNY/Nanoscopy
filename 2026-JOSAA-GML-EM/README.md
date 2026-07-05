@@ -12,4 +12,4 @@ The Python codes are developed to generate the five figures used in the paper:
 
 - Point the drivers to SMLM_Lib by adding the path of SMLM_Lib to the root. 
 
-- Run the three drivers will generate the five figure in the paper.
+- Run the three drivers will generate the five figures in the paper.
