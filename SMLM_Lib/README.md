@@ -1,6 +1,6 @@
 # SMLM_Lib
 
-SMLM_Lib is a Python library in SMLM developed at the Nanoscopy Laboratory at the City College of New York. 
+SMLM_Lib is a Python library in SMLM developed in the Nanoscopy Laboratory at the City College of New York. 
 
 SMLM_Lib can be broadly applied to modeling, theoretical anaysis, simulation, image reconstruction, performance benchmarking and evaluation in SMLM. 
 
