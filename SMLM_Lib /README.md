@@ -8,7 +8,7 @@ SMLM_Lib is used in our projects in SMLM.
 
 SMLM_Lib is built upon the universal model of frames [1, 2], the Markov chain model of fluorescence molecule photoactivation process [3, 4], and quality metrics [3, 5]. 
 
-# References
+## References
 [1] Y. Sun, "Localization precision of stochastic optical localization nanoscopy using single frames," J. Biomed. Optics, 18(11), 111418-14(2013). 
 
 [2] Y. Sun, and Y. Guan, "Effect of unknown emitter intensities on localization accuracy in stochastic optical localization nanoscopy using single frames," JOSA A, 38(12), 1830-1840(2021). 
@@ -21,6 +21,6 @@ SMLM_Lib is built upon the universal model of frames [1, 2], the Markov chain mo
 
 [6] Y. Sun, "Spatiotemporal resolution as an information theoretical property of stochastic optical localization nanoscopy," 2020 Quantitative BioImaging Conf. (QBI2020), Oxford, UK, Jan. 6-9, 2020. 
 
-# Contact
+## Contact
 Yi Sun, Electrical Engineering Department, Nanoscopy Laboratory, The City College of City University of New York, New York, NY 10031, USA. E-mail: ysun@ccny.cuny.edu
 
