@@ -1,7 +1,7 @@
 ## Purpose
 
 
-Preprint and the Python codes generating the five figures for the paper: 
+Preprint and Python codes for the paper: 
 
 [1] Y. Sun, "Asymptotic Efficiency of the Global Maximum-Likelihood Estimator in Multi-Emitter Localization Microscopy," (submitted to JOSA A, July 9, 2026). 
 
