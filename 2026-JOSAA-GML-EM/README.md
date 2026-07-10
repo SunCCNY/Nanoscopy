@@ -1,8 +1,9 @@
 ## Purpose
 
-The Python codes are developed to generate the five figures used in the paper: 
 
-[1] Y. Sun, "Asymptotic Efficiency of the Global Maximum-Likelihood Estimator in Multi-Emitter Localization Microscopy."
+Preprint and the Python codes developed to generate the five figures used in the paper: 
+
+[1] Y. Sun, "Asymptotic Efficiency of the Global Maximum-Likelihood Estimator in Multi-Emitter Localization Microscopy," (submitted to JOSA A, July 9, 2026). 
 
 ## Run codes
 
