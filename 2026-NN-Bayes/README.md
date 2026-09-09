@@ -2,7 +2,7 @@
 
 Preprint and Python codes for the paper: 
 
-[1] Y. Sun, Mona Sharifi, and Muzna Yumman "Training neural networks to approach the optimum Bayes estimator without system parameters in dense multi-emitter localization," (submitted to Optics Express, 2026). 
+[1] Y. Sun, Mona Sharifi, and Muzna Yumman "Training neural networks to approach the optimum Bayes estimator in dense multi-emitter localization," (submitted, 2026). 
 
 ## Run codes
 
