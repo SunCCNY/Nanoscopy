@@ -3,7 +3,7 @@
 
 Preprint and Python codes for the paper: 
 
-[1] Y. Sun, "Asymptotic Efficiency of the Global Maximum-Likelihood Estimator in Multi-Emitter Localization Microscopy," (submitted to JOSA A, July 9, 2026). 
+[1] Y. Sun, "Asymptotic Efficiency of the Global Maximum-Likelihood Estimator in Multi-Emitter Localization Microscopy," arXiv: 2607.28985, 2026. 
 
 ## Run codes
 
