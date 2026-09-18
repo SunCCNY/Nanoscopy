@@ -10,7 +10,7 @@ Preprint and Python codes for the paper:
   
 ## Run codes
 
-If you want to do the simulation, do the following: 
+If you want to repeat the simulation, do the following: 
 
 - Download and unzip three .zip files in \Simulation\ into a folder, say \Simulation\.
 
